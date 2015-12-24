@@ -59,4 +59,6 @@ docs/_build/
 target/
 
 # Fortran builds
+_configtest.f
+.*
 _*
