@@ -4,6 +4,7 @@ import pandas as pd
 print("Howdy, Aggies!")
 
 # files = ['countries.csv', 'sessions.csv', 'age_gender_bkts.csv', 'train_users.csv', 'test_users.csv']
+
 # Lighter version of file import
 files = ['countries.csv', 'age_gender_bkts.csv', 'train_users.csv', 'test_users.csv']
 data_frame = {}
