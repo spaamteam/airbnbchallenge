@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/spaamteam/airbnbchallenge.png?label=ready&title=Ready)](https://waffle.io/spaamteam/airbnbchallenge)
 # Airbnb Kaggle Challenge
 *https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings*
 
