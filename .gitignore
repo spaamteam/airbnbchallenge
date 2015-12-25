@@ -62,3 +62,6 @@ target/
 _configtest.f
 .*
 _*
+
+# Ignore Data files
+data/
