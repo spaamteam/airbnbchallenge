@@ -1,6 +1,10 @@
-[![Stories in Ready](https://badge.waffle.io/spaamteam/airbnbchallenge.png?label=ready&title=Ready)](https://waffle.io/spaamteam/airbnbchallenge)
+
+
 # Airbnb Kaggle Challenge
 *https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings*
+
+[![Stories in Ready](https://badge.waffle.io/spaamteam/airbnbchallenge.png?label=ready&title=Ready)](https://waffle.io/spaamteam/airbnbchallenge)
+[![Code Climate](https://codeclimate.com/github/spaamteam/airbnbchallenge/badges/gpa.svg)](https://codeclimate.com/github/spaamteam/airbnbchallenge)
 
 ## Installation:
 
