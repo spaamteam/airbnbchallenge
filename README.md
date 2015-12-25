@@ -16,9 +16,10 @@
 6. Time to configure atom to work with Git by running `git config --global core.editor "atom --wait"`
 7. Run `git clone https://github.com/spaamteam/airbnbchallenge.git airbnb` to create a folder on your computer with initial source code.
 8. Navigate to this newly created directory *airbnb* `cd airbnb`
-9. Run test script to check if you installed properly `python3 test_install.py` , which should run test cases.
-10. Test python by running `python3 your_script.py` from Terminal/Command-Prompt.
-11. To edit your python script, `atom your_script.py` and atom props up, ready for you to make changes and save.
+9. **Add remote to connect/modify to our team's GitHub repo `git remote add origin master https://github.com/spaamteam/airbnbchallenge.git`**
+10. Run test script to check if you installed properly `python3 test_install.py` , which should run test cases.
+11. Test python by running `python3 your_script.py` from Terminal/Command-Prompt.
+12. To edit your python script, `atom your_script.py` and atom props up, ready for you to make changes and save.
 
 If any problems still remain, feel free to Google them up or let me know if there's any additional step that you had to do & I should have included in this guide.
 
