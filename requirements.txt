@@ -4,6 +4,7 @@ anaconda-client==1.2.1
 appnope==0.1.0
 appscript==1.0.1
 argcomplete==1.0.0
+astroid==1.4.3
 astropy==1.0.6
 Babel==2.1.1
 beautifulsoup4==4.4.1
@@ -46,6 +47,7 @@ jupyter==1.0.0
 jupyter-client==4.1.1
 jupyter-console==4.0.3
 jupyter-core==4.0.6
+lazy-object-proxy==1.2.1
 llvmlite==0.8.0
 lxml==3.4.4
 MarkupSafe==0.23
@@ -81,6 +83,7 @@ pycrypto==2.6.1
 pycurl==7.19.5.1
 pyflakes==1.0.0
 Pygments==2.0.2
+pylint==1.5.2
 pyOpenSSL==0.15.1
 pyparsing==2.0.3
 pytest==2.8.1
@@ -114,6 +117,7 @@ ujson==1.33
 unicodecsv==0.14.1
 Werkzeug==0.11.2
 wheel==0.26.0
+wrapt==1.10.6
 xlrd==0.9.4
 XlsxWriter==0.7.7
 xlwings==0.5.0
