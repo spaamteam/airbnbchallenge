@@ -32,14 +32,18 @@ If any problems still remain, feel free to Google them up or let me know if ther
 - `git pull` : Pulls new changes from the central repository @ GitHub
 - `git push` : Publishes changes to central repo for others to observe and work on
 
+## Testing
+
+nosetests -v --with-coverage --cover-package=airbnb --cover-inclusive --cover-erase tests
+
 ## Team Members (alphabetical)
 
 Aditya Purandare, Alok Satpathy, Atif Tahir, Pratik Mrinal & Saddam Hussain
 
 ## References
 
-https://districtdatalabs.silvrback.com/how-to-develop-quality-python-code
-http://www.drdobbs.com/testing/unit-testing-with-python/240165163
+- https://districtdatalabs.silvrback.com/how-to-develop-quality-python-code
+- http://www.drdobbs.com/testing/unit-testing-with-python/240165163
 
 ## License
 
