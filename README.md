@@ -5,6 +5,7 @@
 
 [![Stories in Ready](https://badge.waffle.io/spaamteam/airbnbchallenge.png?label=ready&title=Ready)](https://waffle.io/spaamteam/airbnbchallenge)
 [![Code Climate](https://codeclimate.com/github/spaamteam/airbnbchallenge/badges/gpa.svg)](https://codeclimate.com/github/spaamteam/airbnbchallenge)
+[![Build Status](https://travis-ci.org/spaamteam/airbnbchallenge.svg?branch=master)](https://travis-ci.org/spaamteam/airbnbchallenge)
 
 ## Installation:
 
