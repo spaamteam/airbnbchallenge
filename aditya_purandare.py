@@ -12,7 +12,8 @@ files = ['countries.csv', 'age_gender_bkts.csv', 'train_users.csv', 'test_users.
 data_frame = {}
 
 for file in files:
-    data_frame[file.replace('.csv', '')] = pd.read_csv('data/' + file)
+    # Data scientists use the convention to put data files into "fixtures" folder
+    data_frame[file.replace('.csv', '')] = pd.read_csv('fixtures/' + file)
 
 train = data_frame['train_users']
 test = data_frame['test_users']
