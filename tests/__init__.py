@@ -17,3 +17,13 @@ class InitializationTests(unittest.TestCase):
     #        import ../airbnb
     #    except ImportError:
     #        self.fail("Was not able to import the airbnb")
+
+    def test_install(self):
+        """
+        Tests against installation of NumPY
+        """
+        try:
+            import numpy as np
+            np.test()
+        except ImportError:
+            self.fail("Was not able to import NumPy")
