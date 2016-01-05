@@ -36,6 +36,11 @@ If any problems still remain, feel free to Google them up or let me know if ther
 
 Aditya Purandare, Alok Satpathy, Atif Tahir, Pratik Mrinal & Saddam Hussain
 
+## References
+
+https://districtdatalabs.silvrback.com/how-to-develop-quality-python-code
+http://www.drdobbs.com/testing/unit-testing-with-python/240165163
+
 ## License
 
     Copyright 2015 SPAAM Team

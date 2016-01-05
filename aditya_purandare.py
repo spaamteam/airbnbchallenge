@@ -17,7 +17,8 @@ test = data_frame['test_users']
 train = train.fillna(-1)
 test = test.fillna(-1)
 
-labels = train['country_destination'].values
-print(labels)
+if __name__ == '__main__':
+    labels = train['country_destination'].values
+    print(labels)
 
-print("Program finished")
+    print("Program finished")
