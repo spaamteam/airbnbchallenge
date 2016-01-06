@@ -2,12 +2,12 @@ language: python
 python:
   - "3.5"
 # command to install dependencies
-before_install:
-  - pip install codecov
+#before_install:
+#  - pip install codecov
 install:
   - "pip install -r requirements.txt"
 # command to run tests
 script:
   - nosetests -v --with-coverage --cover-package=airbnb --cover-inclusive --cover-erase tests
-after_success:
-  - codecov
+#after_success:
+#  - codecov
