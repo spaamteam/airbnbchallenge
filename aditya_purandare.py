@@ -25,3 +25,5 @@ if __name__ == '__main__':
     print(labels)
 
     print("Program finished")
+
+    #Added a comment to indicate program ended
