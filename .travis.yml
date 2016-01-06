@@ -2,6 +2,8 @@ language: python
 python:
   - "3.5"
 # command to install dependencies
+before_install:
+  - pip install codecov
 install:
   - "pip install -r requirements.txt"
   - "pip install coveralls"
@@ -9,3 +11,5 @@ install:
 script:
   - nosetests -v --with-coverage --cover-package=airbnb --cover-inclusive --cover-erase tests
   - coverage run --source=airbnb aditya_purandare.py test
+after_success:
+  - codecov
