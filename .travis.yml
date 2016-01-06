@@ -2,6 +2,10 @@ language: python
 python:
   - "3.5"
 # command to install dependencies
-install: "pip install -r requirements.txt"
+install:
+  - "pip install -r requirements.txt"
+  - "pip install coveralls"
 # command to run tests
-script: nosetests -v --with-coverage --cover-package=airbnb --cover-inclusive --cover-erase tests
+script:
+  - nosetests -v --with-coverage --cover-package=airbnb --cover-inclusive --cover-erase tests
+  - coverage run --source=airbnb aditya_purandare.py test
