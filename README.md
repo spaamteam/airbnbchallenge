@@ -40,7 +40,7 @@ nosetests -v --with-coverage --cover-package=airbnb --cover-inclusive --cover-er
 
 ## Team Members (alphabetical)
 
-Aditya Purandare, Alok Satpathy, Atif Tahir, Pratik Mrinal & Saddam Hussain
+Aditya Purandare, Alok Satpathy, Atif Tahir & Saddam Hussain
 
 ## References
 
