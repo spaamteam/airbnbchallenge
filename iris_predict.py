@@ -1,10 +1,10 @@
 from sklearn import datasets
-import sklearn.tree
+from sklearn.tree import DecisionTreeClassifier
 from sklearn import metrics
 
 dataset = datasets.load_iris()
 
-model = DecisionTreeClasifier()
+model = DecisionTreeClassifier()
 
 # Perform the machine learning steps- fit and predict
 model.fit(dataset.data, dataset.target)
